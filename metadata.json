@@ -1,0 +1,5 @@
+{
+  "name": "FVMP - Fox Valley Metro Police Dashboard",
+  "description": "Painel de controle para o sistema de bate ponto e monitoramento de foragidos da Fox Valley Metro Police.",
+  "requestFramePermissions": []
+}
